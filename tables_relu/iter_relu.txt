@@ -1,0 +1,451 @@
+************************************************** Beginning systemic discovery loop **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 500 , Noise: 0 % ******************************
+Adam iteration: 0, Loss: 1.092e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.62
+Adam iteration: 500, Loss: 5.562e-02, Lambda_1: 0.052, Lambda_2: 0.002479, Time: 11.23
+Adam iteration: 1000, Loss: 3.480e-02, Lambda_1: 0.047, Lambda_2: 0.002479, Time: 11.61
+Adam iteration: 1500, Loss: 2.931e-02, Lambda_1: 0.051, Lambda_2: 0.002479, Time: 11.20
+Adam iteration: 2000, Loss: 2.638e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 11.23
+Adam iteration: 2500, Loss: 2.380e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 11.19
+Adam iteration: 3000, Loss: 2.517e-02, Lambda_1: 0.052, Lambda_2: 0.002479, Time: 11.27
+Adam iteration: 3500, Loss: 2.458e-02, Lambda_1: 0.054, Lambda_2: 0.002479, Time: 11.24
+Adam iteration: 4000, Loss: 2.811e-02, Lambda_1: 0.045, Lambda_2: 0.002479, Time: 11.19
+Adam iteration: 4500, Loss: 2.355e-02, Lambda_1: 0.057, Lambda_2: 0.002479, Time: 11.20
+Adam iteration: 5000, Loss: 2.455e-02, Lambda_1: 0.059, Lambda_2: 0.002479, Time: 11.18
+Error u: 2.624023e-01
+Error l1: 94.27887%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 500 , Noise: 1 % ******************************
+Adam iteration: 0, Loss: 9.688e+00, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.50
+Adam iteration: 500, Loss: 5.720e-02, Lambda_1: 0.067, Lambda_2: 0.002479, Time: 11.25
+Adam iteration: 1000, Loss: 4.507e-02, Lambda_1: 0.062, Lambda_2: 0.002479, Time: 11.35
+Adam iteration: 1500, Loss: 3.154e-02, Lambda_1: 0.039, Lambda_2: 0.002479, Time: 11.38
+Adam iteration: 2000, Loss: 3.090e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 11.37
+Adam iteration: 2500, Loss: 3.088e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 11.36
+Adam iteration: 3000, Loss: 3.027e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 11.34
+Adam iteration: 3500, Loss: 2.826e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 11.35
+Adam iteration: 4000, Loss: 2.570e-02, Lambda_1: 0.040, Lambda_2: 0.002479, Time: 11.36
+Adam iteration: 4500, Loss: 2.666e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 11.36
+Adam iteration: 5000, Loss: 2.655e-02, Lambda_1: 0.020, Lambda_2: 0.002479, Time: 11.36
+Error u: 2.491150e-01
+Error l1: 98.33590%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 500 , Noise: 5 % ******************************
+Adam iteration: 0, Loss: 1.116e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.50
+Adam iteration: 500, Loss: 9.468e-02, Lambda_1: 0.055, Lambda_2: 0.002479, Time: 11.25
+Adam iteration: 1000, Loss: 4.334e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 11.34
+Adam iteration: 1500, Loss: 3.114e-02, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 11.36
+Adam iteration: 2000, Loss: 3.204e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 11.36
+Adam iteration: 2500, Loss: 2.741e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 11.36
+Adam iteration: 3000, Loss: 2.733e-02, Lambda_1: 0.022, Lambda_2: 0.002479, Time: 11.33
+Adam iteration: 3500, Loss: 2.597e-02, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 11.35
+Adam iteration: 4000, Loss: 2.597e-02, Lambda_1: 0.009, Lambda_2: 0.002479, Time: 11.39
+Adam iteration: 4500, Loss: 2.669e-02, Lambda_1: 0.033, Lambda_2: 0.002479, Time: 11.40
+Adam iteration: 5000, Loss: 2.568e-02, Lambda_1: 0.024, Lambda_2: 0.002479, Time: 11.40
+Error u: 2.460513e-01
+Error l1: 96.96381%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 500 , Noise: 10 % ******************************
+Adam iteration: 0, Loss: 1.119e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.50
+Adam iteration: 500, Loss: 6.559e-02, Lambda_1: 0.034, Lambda_2: 0.002479, Time: 12.32
+Adam iteration: 1000, Loss: 3.997e-02, Lambda_1: 0.059, Lambda_2: 0.002479, Time: 12.45
+Adam iteration: 1500, Loss: 4.198e-02, Lambda_1: 0.037, Lambda_2: 0.002479, Time: 12.49
+Adam iteration: 2000, Loss: 3.531e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 12.52
+Adam iteration: 2500, Loss: 3.312e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 12.52
+Adam iteration: 3000, Loss: 3.166e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 12.51
+Adam iteration: 3500, Loss: 3.027e-02, Lambda_1: 0.045, Lambda_2: 0.002479, Time: 12.47
+Adam iteration: 4000, Loss: 3.106e-02, Lambda_1: 0.037, Lambda_2: 0.002479, Time: 12.48
+Adam iteration: 4500, Loss: 3.169e-02, Lambda_1: 0.066, Lambda_2: 0.002479, Time: 12.50
+Adam iteration: 5000, Loss: 3.113e-02, Lambda_1: 0.052, Lambda_2: 0.002479, Time: 12.52
+Error u: 2.605616e-01
+Error l1: 94.89066%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1000 , Noise: 0 % ******************************
+Adam iteration: 0, Loss: 1.120e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.51
+Adam iteration: 500, Loss: 5.863e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 13.87
+Adam iteration: 1000, Loss: 4.443e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 14.10
+Adam iteration: 1500, Loss: 3.517e-02, Lambda_1: 0.052, Lambda_2: 0.002479, Time: 14.14
+Adam iteration: 2000, Loss: 2.907e-02, Lambda_1: 0.088, Lambda_2: 0.002479, Time: 14.11
+Adam iteration: 2500, Loss: 3.127e-02, Lambda_1: 0.049, Lambda_2: 0.002479, Time: 14.14
+Adam iteration: 3000, Loss: 3.009e-02, Lambda_1: 0.043, Lambda_2: 0.002479, Time: 14.14
+Adam iteration: 3500, Loss: 2.921e-02, Lambda_1: 0.058, Lambda_2: 0.002479, Time: 14.11
+Adam iteration: 4000, Loss: 2.759e-02, Lambda_1: 0.078, Lambda_2: 0.002479, Time: 14.16
+Adam iteration: 4500, Loss: 2.872e-02, Lambda_1: 0.056, Lambda_2: 0.002479, Time: 14.15
+Adam iteration: 5000, Loss: 2.896e-02, Lambda_1: 0.068, Lambda_2: 0.002479, Time: 14.10
+Error u: 2.472769e-01
+Error l1: 93.21925%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1000 , Noise: 1 % ******************************
+Adam iteration: 0, Loss: 1.101e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.51
+Adam iteration: 500, Loss: 6.213e-02, Lambda_1: 0.037, Lambda_2: 0.002479, Time: 14.22
+Adam iteration: 1000, Loss: 3.849e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 14.43
+Adam iteration: 1500, Loss: 2.997e-02, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 14.44
+Adam iteration: 2000, Loss: 2.836e-02, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 14.44
+Adam iteration: 2500, Loss: 2.570e-02, Lambda_1: 0.020, Lambda_2: 0.002479, Time: 14.94
+Adam iteration: 3000, Loss: 2.805e-02, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 14.62
+Adam iteration: 3500, Loss: 2.644e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 14.74
+Adam iteration: 4000, Loss: 2.520e-02, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 14.98
+Adam iteration: 4500, Loss: 2.545e-02, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 14.75
+Adam iteration: 5000, Loss: 2.430e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 14.47
+Error u: 2.477804e-01
+Error l1: 96.54109%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1000 , Noise: 5 % ******************************
+Adam iteration: 0, Loss: 1.072e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.55
+Adam iteration: 500, Loss: 5.720e-02, Lambda_1: 0.043, Lambda_2: 0.002479, Time: 13.95
+Adam iteration: 1000, Loss: 3.745e-02, Lambda_1: 0.072, Lambda_2: 0.002479, Time: 14.18
+Adam iteration: 1500, Loss: 3.221e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 14.13
+Adam iteration: 2000, Loss: 3.237e-02, Lambda_1: 0.053, Lambda_2: 0.002479, Time: 14.08
+Adam iteration: 2500, Loss: 2.713e-02, Lambda_1: 0.051, Lambda_2: 0.002479, Time: 14.35
+Adam iteration: 3000, Loss: 2.565e-02, Lambda_1: 0.052, Lambda_2: 0.002479, Time: 15.75
+Adam iteration: 3500, Loss: 2.625e-02, Lambda_1: 0.055, Lambda_2: 0.002479, Time: 14.79
+Adam iteration: 4000, Loss: 2.706e-02, Lambda_1: 0.063, Lambda_2: 0.002479, Time: 14.93
+Adam iteration: 4500, Loss: 2.608e-02, Lambda_1: 0.053, Lambda_2: 0.002479, Time: 14.71
+Adam iteration: 5000, Loss: 2.545e-02, Lambda_1: 0.067, Lambda_2: 0.002479, Time: 14.26
+Error u: 2.571556e-01
+Error l1: 93.33733%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1000 , Noise: 10 % ******************************
+Adam iteration: 0, Loss: 1.102e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.71
+Adam iteration: 500, Loss: 7.210e-02, Lambda_1: 0.049, Lambda_2: 0.002479, Time: 14.58
+Adam iteration: 1000, Loss: 4.756e-02, Lambda_1: 0.043, Lambda_2: 0.002479, Time: 15.00
+Adam iteration: 1500, Loss: 3.601e-02, Lambda_1: 0.024, Lambda_2: 0.002479, Time: 15.15
+Adam iteration: 2000, Loss: 3.298e-02, Lambda_1: 0.027, Lambda_2: 0.002479, Time: 14.91
+Adam iteration: 2500, Loss: 3.221e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 15.24
+Adam iteration: 3000, Loss: 3.133e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 15.12
+Adam iteration: 3500, Loss: 3.043e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 14.79
+Adam iteration: 4000, Loss: 2.985e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 14.31
+Adam iteration: 4500, Loss: 3.035e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 14.72
+Adam iteration: 5000, Loss: 2.972e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 14.24
+Error u: 2.544914e-01
+Error l1: 97.12327%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1500 , Noise: 0 % ******************************
+Adam iteration: 0, Loss: 1.109e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.53
+Adam iteration: 500, Loss: 7.787e-02, Lambda_1: 0.051, Lambda_2: 0.002479, Time: 16.83
+Adam iteration: 1000, Loss: 4.140e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 16.91
+Adam iteration: 1500, Loss: 3.490e-02, Lambda_1: 0.020, Lambda_2: 0.002479, Time: 17.34
+Adam iteration: 2000, Loss: 3.167e-02, Lambda_1: 0.024, Lambda_2: 0.002479, Time: 17.18
+Adam iteration: 2500, Loss: 2.831e-02, Lambda_1: 0.024, Lambda_2: 0.002479, Time: 17.79
+Adam iteration: 3000, Loss: 2.921e-02, Lambda_1: 0.027, Lambda_2: 0.002479, Time: 17.49
+Adam iteration: 3500, Loss: 2.733e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 17.29
+Adam iteration: 4000, Loss: 2.653e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 17.43
+Adam iteration: 4500, Loss: 2.731e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 17.09
+Adam iteration: 5000, Loss: 2.668e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 17.45
+Error u: 2.516172e-01
+Error l1: 97.38129%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1500 , Noise: 1 % ******************************
+Adam iteration: 0, Loss: 1.045e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.53
+Adam iteration: 500, Loss: 5.961e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 16.35
+Adam iteration: 1000, Loss: 3.709e-02, Lambda_1: 0.027, Lambda_2: 0.002479, Time: 16.61
+Adam iteration: 1500, Loss: 2.813e-02, Lambda_1: 0.010, Lambda_2: 0.002479, Time: 16.58
+Adam iteration: 2000, Loss: 2.853e-02, Lambda_1: 0.010, Lambda_2: 0.002479, Time: 16.33
+Adam iteration: 2500, Loss: 2.541e-02, Lambda_1: 0.011, Lambda_2: 0.002479, Time: 16.74
+Adam iteration: 3000, Loss: 2.428e-02, Lambda_1: 0.007, Lambda_2: 0.002479, Time: 16.38
+Adam iteration: 3500, Loss: 2.725e-02, Lambda_1: 0.011, Lambda_2: 0.002479, Time: 17.10
+Adam iteration: 4000, Loss: 2.472e-02, Lambda_1: 0.012, Lambda_2: 0.002479, Time: 16.78
+Adam iteration: 4500, Loss: 2.385e-02, Lambda_1: 0.012, Lambda_2: 0.002479, Time: 17.04
+Adam iteration: 5000, Loss: 2.599e-02, Lambda_1: 0.009, Lambda_2: 0.002479, Time: 16.47
+Error u: 2.522321e-01
+Error l1: 98.97945%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1500 , Noise: 5 % ******************************
+Adam iteration: 0, Loss: 1.064e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.58
+Adam iteration: 500, Loss: 5.758e-02, Lambda_1: 0.047, Lambda_2: 0.002479, Time: 15.89
+Adam iteration: 1000, Loss: 3.935e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 16.77
+Adam iteration: 1500, Loss: 3.040e-02, Lambda_1: 0.022, Lambda_2: 0.002479, Time: 16.39
+Adam iteration: 2000, Loss: 2.907e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 16.69
+Adam iteration: 2500, Loss: 2.951e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 16.37
+Adam iteration: 3000, Loss: 2.747e-02, Lambda_1: 0.037, Lambda_2: 0.002479, Time: 16.86
+Adam iteration: 3500, Loss: 2.825e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 16.52
+Adam iteration: 4000, Loss: 2.744e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 16.74
+Adam iteration: 4500, Loss: 2.774e-02, Lambda_1: 0.041, Lambda_2: 0.002479, Time: 16.43
+Adam iteration: 5000, Loss: 2.741e-02, Lambda_1: 0.037, Lambda_2: 0.002479, Time: 16.69
+Error u: 2.501617e-01
+Error l1: 96.34387%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 1500 , Noise: 10 % ******************************
+Adam iteration: 0, Loss: 1.047e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.74
+Adam iteration: 500, Loss: 6.833e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 18.26
+Adam iteration: 1000, Loss: 4.071e-02, Lambda_1: 0.041, Lambda_2: 0.002479, Time: 18.67
+Adam iteration: 1500, Loss: 3.729e-02, Lambda_1: 0.041, Lambda_2: 0.002479, Time: 18.63
+Adam iteration: 2000, Loss: 3.327e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 17.81
+Adam iteration: 2500, Loss: 3.176e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 17.35
+Adam iteration: 3000, Loss: 3.147e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 16.41
+Adam iteration: 3500, Loss: 3.293e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 15.74
+Adam iteration: 4000, Loss: 3.029e-02, Lambda_1: 0.037, Lambda_2: 0.002479, Time: 15.79
+Adam iteration: 4500, Loss: 3.013e-02, Lambda_1: 0.036, Lambda_2: 0.002479, Time: 15.86
+Adam iteration: 5000, Loss: 3.059e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 15.66
+Error u: 2.548315e-01
+Error l1: 96.32292%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 2000 , Noise: 0 % ******************************
+Adam iteration: 0, Loss: 1.138e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.52
+Adam iteration: 500, Loss: 6.882e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 17.53
+Adam iteration: 1000, Loss: 3.985e-02, Lambda_1: 0.034, Lambda_2: 0.002479, Time: 18.25
+Adam iteration: 1500, Loss: 3.088e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 18.37
+Adam iteration: 2000, Loss: 2.803e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 18.39
+Adam iteration: 2500, Loss: 2.595e-02, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 18.40
+Adam iteration: 3000, Loss: 2.563e-02, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 18.43
+Adam iteration: 3500, Loss: 2.729e-02, Lambda_1: 0.012, Lambda_2: 0.002479, Time: 18.40
+Adam iteration: 4000, Loss: 2.588e-02, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 18.40
+Adam iteration: 4500, Loss: 3.055e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 18.42
+Adam iteration: 5000, Loss: 2.505e-02, Lambda_1: 0.022, Lambda_2: 0.002479, Time: 18.44
+Error u: 2.512477e-01
+Error l1: 97.88631%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 2000 , Noise: 1 % ******************************
+Adam iteration: 0, Loss: 1.088e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.52
+Adam iteration: 500, Loss: 5.312e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 17.05
+Adam iteration: 1000, Loss: 3.453e-02, Lambda_1: 0.052, Lambda_2: 0.002479, Time: 18.12
+Adam iteration: 1500, Loss: 3.205e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 18.27
+Adam iteration: 2000, Loss: 2.792e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 18.32
+Adam iteration: 2500, Loss: 2.930e-02, Lambda_1: 0.034, Lambda_2: 0.002479, Time: 18.41
+Adam iteration: 3000, Loss: 2.632e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 18.15
+Adam iteration: 3500, Loss: 2.603e-02, Lambda_1: 0.027, Lambda_2: 0.002479, Time: 18.14
+Adam iteration: 4000, Loss: 2.552e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 18.18
+Adam iteration: 4500, Loss: 2.550e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 18.14
+Adam iteration: 5000, Loss: 2.543e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 18.19
+Error u: 2.524563e-01
+Error l1: 96.99561%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 2000 , Noise: 5 % ******************************
+Adam iteration: 0, Loss: 1.073e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.53
+Adam iteration: 500, Loss: 5.795e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 16.39
+Adam iteration: 1000, Loss: 4.331e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 17.01
+Adam iteration: 1500, Loss: 3.182e-02, Lambda_1: 0.043, Lambda_2: 0.002479, Time: 17.03
+Adam iteration: 2000, Loss: 3.037e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 17.17
+Adam iteration: 2500, Loss: 2.778e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 17.27
+Adam iteration: 3000, Loss: 2.773e-02, Lambda_1: 0.034, Lambda_2: 0.002479, Time: 18.30
+Adam iteration: 3500, Loss: 2.606e-02, Lambda_1: 0.050, Lambda_2: 0.002479, Time: 16.84
+Adam iteration: 4000, Loss: 2.620e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 17.12
+Adam iteration: 4500, Loss: 2.621e-02, Lambda_1: 0.049, Lambda_2: 0.002479, Time: 17.02
+Adam iteration: 5000, Loss: 2.614e-02, Lambda_1: 0.045, Lambda_2: 0.002479, Time: 17.06
+Error u: 2.570005e-01
+Error l1: 95.52441%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of collocation points: 2000 , Noise: 10 % ******************************
+Adam iteration: 0, Loss: 1.019e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.73
+Adam iteration: 500, Loss: 5.842e-02, Lambda_1: 0.048, Lambda_2: 0.002479, Time: 17.91
+Adam iteration: 1000, Loss: 5.199e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 18.74
+Adam iteration: 1500, Loss: 3.888e-02, Lambda_1: 0.032, Lambda_2: 0.002479, Time: 18.48
+Adam iteration: 2000, Loss: 3.600e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 18.16
+Adam iteration: 2500, Loss: 3.549e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 18.52
+Adam iteration: 3000, Loss: 3.337e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 18.58
+Adam iteration: 3500, Loss: 3.310e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 18.21
+Adam iteration: 4000, Loss: 3.149e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 18.45
+Adam iteration: 4500, Loss: 3.136e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 18.26
+Adam iteration: 5000, Loss: 3.134e-02, Lambda_1: 0.021, Lambda_2: 0.002479, Time: 18.46
+Error u: 2.488581e-01
+Error l1: 97.86240%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 2 , Num. of surrogate units: 10 ******************************
+Adam iteration: 0, Loss: 4.324e+00, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.29
+Adam iteration: 500, Loss: 7.031e-01, Lambda_1: 0.150, Lambda_2: 0.002479, Time: 3.89
+Adam iteration: 1000, Loss: 3.766e-01, Lambda_1: 0.155, Lambda_2: 0.002479, Time: 3.92
+Adam iteration: 1500, Loss: 3.034e-01, Lambda_1: 0.156, Lambda_2: 0.002479, Time: 4.24
+Adam iteration: 2000, Loss: 2.621e-01, Lambda_1: 0.145, Lambda_2: 0.002479, Time: 4.13
+Adam iteration: 2500, Loss: 2.216e-01, Lambda_1: 0.073, Lambda_2: 0.002479, Time: 3.96
+Adam iteration: 3000, Loss: 1.982e-01, Lambda_1: -0.008, Lambda_2: 0.002479, Time: 3.97
+Adam iteration: 3500, Loss: 1.735e-01, Lambda_1: -0.058, Lambda_2: 0.002479, Time: 3.88
+Adam iteration: 4000, Loss: 1.491e-01, Lambda_1: -0.055, Lambda_2: 0.002479, Time: 3.94
+Adam iteration: 4500, Loss: 1.191e-01, Lambda_1: -0.007, Lambda_2: 0.002479, Time: 4.28
+Adam iteration: 5000, Loss: 8.662e-02, Lambda_1: 0.013, Lambda_2: 0.002479, Time: 4.50
+Error u: 2.773503e-01
+Error l1: 95.27520%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 2 , Num. of surrogate units: 20 ******************************
+Adam iteration: 0, Loss: 1.422e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.32
+Adam iteration: 500, Loss: 8.047e-01, Lambda_1: -0.039, Lambda_2: 0.002479, Time: 4.03
+Adam iteration: 1000, Loss: 2.003e-01, Lambda_1: -0.056, Lambda_2: 0.002479, Time: 4.30
+Adam iteration: 1500, Loss: 1.607e-01, Lambda_1: -0.051, Lambda_2: 0.002479, Time: 4.10
+Adam iteration: 2000, Loss: 1.379e-01, Lambda_1: -0.047, Lambda_2: 0.002479, Time: 3.96
+Adam iteration: 2500, Loss: 1.175e-01, Lambda_1: -0.035, Lambda_2: 0.002479, Time: 3.91
+Adam iteration: 3000, Loss: 9.945e-02, Lambda_1: -0.015, Lambda_2: 0.002479, Time: 3.94
+Adam iteration: 3500, Loss: 8.326e-02, Lambda_1: 0.005, Lambda_2: 0.002479, Time: 4.26
+Adam iteration: 4000, Loss: 7.015e-02, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 4.25
+Adam iteration: 4500, Loss: 6.042e-02, Lambda_1: 0.018, Lambda_2: 0.002479, Time: 3.95
+Adam iteration: 5000, Loss: 5.364e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 3.99
+Error u: 2.793096e-01
+Error l1: 95.77831%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 2 , Num. of surrogate units: 40 ******************************
+Adam iteration: 0, Loss: 2.123e+01, Lambda_1: -0.001, Lambda_2: 0.002479, Time: 0.30
+Adam iteration: 500, Loss: 4.780e-01, Lambda_1: -0.047, Lambda_2: 0.002479, Time: 4.47
+Adam iteration: 1000, Loss: 2.169e-01, Lambda_1: -0.046, Lambda_2: 0.002479, Time: 4.47
+Adam iteration: 1500, Loss: 1.708e-01, Lambda_1: -0.045, Lambda_2: 0.002479, Time: 4.55
+Adam iteration: 2000, Loss: 1.430e-01, Lambda_1: -0.044, Lambda_2: 0.002479, Time: 4.79
+Adam iteration: 2500, Loss: 1.163e-01, Lambda_1: -0.040, Lambda_2: 0.002479, Time: 4.41
+Adam iteration: 3000, Loss: 9.083e-02, Lambda_1: -0.032, Lambda_2: 0.002479, Time: 4.42
+Adam iteration: 3500, Loss: 7.173e-02, Lambda_1: -0.019, Lambda_2: 0.002479, Time: 4.43
+Adam iteration: 4000, Loss: 5.895e-02, Lambda_1: -0.003, Lambda_2: 0.002479, Time: 4.43
+Adam iteration: 4500, Loss: 5.153e-02, Lambda_1: 0.009, Lambda_2: 0.002479, Time: 4.42
+Adam iteration: 5000, Loss: 4.689e-02, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 4.65
+Error u: 2.883330e-01
+Error l1: 94.08521%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 4 , Num. of surrogate units: 10 ******************************
+Adam iteration: 0, Loss: 1.965e+01, Lambda_1: -0.001, Lambda_2: 0.002479, Time: 0.39
+Adam iteration: 500, Loss: 5.022e-01, Lambda_1: -0.003, Lambda_2: 0.002479, Time: 6.22
+Adam iteration: 1000, Loss: 2.806e-01, Lambda_1: 0.041, Lambda_2: 0.002479, Time: 6.20
+Adam iteration: 1500, Loss: 1.754e-01, Lambda_1: 0.056, Lambda_2: 0.002479, Time: 6.36
+Adam iteration: 2000, Loss: 1.144e-01, Lambda_1: 0.086, Lambda_2: 0.002479, Time: 6.27
+Adam iteration: 2500, Loss: 8.392e-02, Lambda_1: 0.050, Lambda_2: 0.002479, Time: 6.69
+Adam iteration: 3000, Loss: 6.646e-02, Lambda_1: 0.040, Lambda_2: 0.002479, Time: 6.29
+Adam iteration: 3500, Loss: 6.569e-02, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 6.27
+Adam iteration: 4000, Loss: 5.016e-02, Lambda_1: 0.007, Lambda_2: 0.002479, Time: 6.33
+Adam iteration: 4500, Loss: 4.335e-02, Lambda_1: -0.001, Lambda_2: 0.002479, Time: 6.34
+Adam iteration: 5000, Loss: 3.482e-02, Lambda_1: 0.004, Lambda_2: 0.002479, Time: 6.27
+Error u: 2.811338e-01
+Error l1: 99.59698%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 4 , Num. of surrogate units: 20 ******************************
+Adam iteration: 0, Loss: 5.251e+00, Lambda_1: -0.001, Lambda_2: 0.002479, Time: 0.38
+Adam iteration: 500, Loss: 2.025e-01, Lambda_1: -0.022, Lambda_2: 0.002479, Time: 7.31
+Adam iteration: 1000, Loss: 7.848e-02, Lambda_1: -0.003, Lambda_2: 0.002479, Time: 7.57
+Adam iteration: 1500, Loss: 4.632e-02, Lambda_1: 0.021, Lambda_2: 0.002479, Time: 7.87
+Adam iteration: 2000, Loss: 3.620e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 7.55
+Adam iteration: 2500, Loss: 3.159e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 7.27
+Adam iteration: 3000, Loss: 2.926e-02, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 7.25
+Adam iteration: 3500, Loss: 2.808e-02, Lambda_1: 0.020, Lambda_2: 0.002479, Time: 7.39
+Adam iteration: 4000, Loss: 2.766e-02, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 7.64
+Adam iteration: 4500, Loss: 2.718e-02, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 7.28
+Adam iteration: 5000, Loss: 2.681e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 7.28
+Error u: 2.597273e-01
+Error l1: 98.14175%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 4 , Num. of surrogate units: 40 ******************************
+Adam iteration: 0, Loss: 1.527e+01, Lambda_1: -0.001, Lambda_2: 0.002479, Time: 0.39
+Adam iteration: 500, Loss: 1.210e-01, Lambda_1: 0.085, Lambda_2: 0.002479, Time: 8.96
+Adam iteration: 1000, Loss: 6.041e-02, Lambda_1: 0.048, Lambda_2: 0.002479, Time: 9.06
+Adam iteration: 1500, Loss: 4.171e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 9.01
+Adam iteration: 2000, Loss: 3.124e-02, Lambda_1: 0.021, Lambda_2: 0.002479, Time: 9.08
+Adam iteration: 2500, Loss: 2.779e-02, Lambda_1: 0.018, Lambda_2: 0.002479, Time: 9.22
+Adam iteration: 3000, Loss: 2.621e-02, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 9.08
+Adam iteration: 3500, Loss: 2.541e-02, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 9.11
+Adam iteration: 4000, Loss: 2.543e-02, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 9.61
+Adam iteration: 4500, Loss: 2.452e-02, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 9.31
+Adam iteration: 5000, Loss: 2.446e-02, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 9.04
+Error u: 2.542369e-01
+Error l1: 98.45968%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 6 , Num. of surrogate units: 10 ******************************
+Adam iteration: 0, Loss: 4.384e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.44
+Adam iteration: 500, Loss: 4.338e-01, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 8.54
+Adam iteration: 1000, Loss: 2.928e-01, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 8.48
+Adam iteration: 1500, Loss: 2.485e-01, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 8.48
+Adam iteration: 2000, Loss: 1.986e-01, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 8.46
+Adam iteration: 2500, Loss: 1.296e-01, Lambda_1: 0.020, Lambda_2: 0.002479, Time: 8.42
+Adam iteration: 3000, Loss: 1.098e-01, Lambda_1: 0.027, Lambda_2: 0.002479, Time: 8.51
+Adam iteration: 3500, Loss: 7.012e-02, Lambda_1: 0.016, Lambda_2: 0.002479, Time: 8.56
+Adam iteration: 4000, Loss: 6.423e-02, Lambda_1: 0.020, Lambda_2: 0.002479, Time: 8.49
+Adam iteration: 4500, Loss: 5.117e-02, Lambda_1: 0.024, Lambda_2: 0.002479, Time: 8.39
+Adam iteration: 5000, Loss: 4.474e-02, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 8.59
+Error u: 3.001335e-01
+Error l1: 98.70413%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 6 , Num. of surrogate units: 20 ******************************
+Adam iteration: 0, Loss: 1.981e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.48
+Adam iteration: 500, Loss: 2.517e-01, Lambda_1: 0.018, Lambda_2: 0.002479, Time: 10.32
+Adam iteration: 1000, Loss: 9.142e-02, Lambda_1: 0.022, Lambda_2: 0.002479, Time: 10.40
+Adam iteration: 1500, Loss: 5.311e-02, Lambda_1: 0.036, Lambda_2: 0.002479, Time: 10.61
+Adam iteration: 2000, Loss: 4.519e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 10.23
+Adam iteration: 2500, Loss: 4.110e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 11.46
+Adam iteration: 3000, Loss: 3.761e-02, Lambda_1: 0.018, Lambda_2: 0.002479, Time: 12.64
+Adam iteration: 3500, Loss: 2.964e-02, Lambda_1: 0.022, Lambda_2: 0.002479, Time: 12.72
+Adam iteration: 4000, Loss: 2.958e-02, Lambda_1: 0.010, Lambda_2: 0.002479, Time: 12.70
+Adam iteration: 4500, Loss: 2.721e-02, Lambda_1: 0.009, Lambda_2: 0.002479, Time: 12.77
+Adam iteration: 5000, Loss: 2.675e-02, Lambda_1: 0.011, Lambda_2: 0.002479, Time: 12.76
+Error u: 2.571504e-01
+Error l1: 98.89774%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 6 , Num. of surrogate units: 40 ******************************
+Adam iteration: 0, Loss: 9.255e+00, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.57
+Adam iteration: 500, Loss: 8.542e-02, Lambda_1: 0.041, Lambda_2: 0.002479, Time: 15.27
+Adam iteration: 1000, Loss: 5.007e-02, Lambda_1: 0.042, Lambda_2: 0.002479, Time: 16.12
+Adam iteration: 1500, Loss: 4.004e-02, Lambda_1: 0.036, Lambda_2: 0.002479, Time: 15.40
+Adam iteration: 2000, Loss: 3.111e-02, Lambda_1: 0.029, Lambda_2: 0.002479, Time: 15.32
+Adam iteration: 2500, Loss: 2.705e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 15.34
+Adam iteration: 3000, Loss: 2.694e-02, Lambda_1: 0.024, Lambda_2: 0.002479, Time: 15.69
+Adam iteration: 3500, Loss: 2.591e-02, Lambda_1: 0.023, Lambda_2: 0.002479, Time: 15.35
+Adam iteration: 4000, Loss: 2.618e-02, Lambda_1: 0.023, Lambda_2: 0.002479, Time: 15.45
+Adam iteration: 4500, Loss: 2.615e-02, Lambda_1: 0.023, Lambda_2: 0.002479, Time: 15.39
+Adam iteration: 5000, Loss: 2.578e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 15.38
+Error u: 2.501267e-01
+Error l1: 98.22989%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 8 , Num. of surrogate units: 10 ******************************
+Adam iteration: 0, Loss: 1.001e+02, Lambda_1: -0.001, Lambda_2: 0.002479, Time: 0.66
+Adam iteration: 500, Loss: 4.536e-01, Lambda_1: -0.041, Lambda_2: 0.002479, Time: 13.99
+Adam iteration: 1000, Loss: 3.255e-01, Lambda_1: -0.041, Lambda_2: 0.002479, Time: 13.94
+Adam iteration: 1500, Loss: 2.787e-01, Lambda_1: -0.042, Lambda_2: 0.002479, Time: 14.03
+Adam iteration: 2000, Loss: 1.987e-01, Lambda_1: -0.043, Lambda_2: 0.002479, Time: 14.07
+Adam iteration: 2500, Loss: 1.476e-01, Lambda_1: -0.043, Lambda_2: 0.002479, Time: 13.99
+Adam iteration: 3000, Loss: 1.159e-01, Lambda_1: -0.043, Lambda_2: 0.002479, Time: 14.40
+Adam iteration: 3500, Loss: 9.724e-02, Lambda_1: -0.038, Lambda_2: 0.002479, Time: 14.16
+Adam iteration: 4000, Loss: 7.733e-02, Lambda_1: -0.026, Lambda_2: 0.002479, Time: 14.29
+Adam iteration: 4500, Loss: 5.976e-02, Lambda_1: -0.011, Lambda_2: 0.002479, Time: 13.80
+Adam iteration: 5000, Loss: 4.906e-02, Lambda_1: 0.007, Lambda_2: 0.002479, Time: 13.82
+Error u: 3.310850e-01
+Error l1: 99.27444%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 8 , Num. of surrogate units: 20 ******************************
+Adam iteration: 0, Loss: 3.796e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.70
+Adam iteration: 500, Loss: 1.942e-01, Lambda_1: 0.014, Lambda_2: 0.002479, Time: 16.88
+Adam iteration: 1000, Loss: 1.485e-01, Lambda_1: 0.015, Lambda_2: 0.002479, Time: 16.74
+Adam iteration: 1500, Loss: 1.031e-01, Lambda_1: 0.017, Lambda_2: 0.002479, Time: 17.15
+Adam iteration: 2000, Loss: 5.314e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 16.86
+Adam iteration: 2500, Loss: 4.651e-02, Lambda_1: 0.023, Lambda_2: 0.002479, Time: 16.74
+Adam iteration: 3000, Loss: 3.610e-02, Lambda_1: 0.022, Lambda_2: 0.002479, Time: 16.67
+Adam iteration: 3500, Loss: 3.137e-02, Lambda_1: 0.025, Lambda_2: 0.002479, Time: 16.52
+Adam iteration: 4000, Loss: 3.015e-02, Lambda_1: 0.028, Lambda_2: 0.002479, Time: 16.85
+Adam iteration: 4500, Loss: 2.836e-02, Lambda_1: 0.026, Lambda_2: 0.002479, Time: 16.57
+Adam iteration: 5000, Loss: 2.662e-02, Lambda_1: 0.019, Lambda_2: 0.002479, Time: 16.94
+Error u: 2.564106e-01
+Error l1: 98.06187%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+****************************** Beginning discovery:  Num. of surrogate layers: 8 , Num. of surrogate units: 40 ******************************
+Adam iteration: 0, Loss: 1.080e+01, Lambda_1: 0.001, Lambda_2: 0.002479, Time: 0.67
+Adam iteration: 500, Loss: 7.936e-02, Lambda_1: 0.036, Lambda_2: 0.002479, Time: 19.69
+Adam iteration: 1000, Loss: 3.571e-02, Lambda_1: 0.038, Lambda_2: 0.002479, Time: 20.22
+Adam iteration: 1500, Loss: 3.242e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 20.44
+Adam iteration: 2000, Loss: 2.842e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 20.78
+Adam iteration: 2500, Loss: 2.742e-02, Lambda_1: 0.035, Lambda_2: 0.002479, Time: 20.31
+Adam iteration: 3000, Loss: 2.726e-02, Lambda_1: 0.031, Lambda_2: 0.002479, Time: 20.81
+Adam iteration: 3500, Loss: 2.798e-02, Lambda_1: 0.033, Lambda_2: 0.002479, Time: 20.53
+Adam iteration: 4000, Loss: 2.708e-02, Lambda_1: 0.034, Lambda_2: 0.002479, Time: 20.83
+Adam iteration: 4500, Loss: 2.611e-02, Lambda_1: 0.040, Lambda_2: 0.002479, Time: 20.42
+Adam iteration: 5000, Loss: 2.734e-02, Lambda_1: 0.030, Lambda_2: 0.002479, Time: 20.34
+Error u: 2.571813e-01
+Error l1: 96.96681%
+Error l2: 22.12770%
+************************************************** Discovery complete **************************************************
+************************************************** Systemic discovery loop complete **************************************************
+************************************************** Time to completion: 3717.025451183319 **************************************************
