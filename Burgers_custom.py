@@ -115,48 +115,52 @@ class PhysicsInformedNN:
         return u, f
     
     def create_f(self):
+        """
+        @author: Kealan Hennessy
+        @author: https://gist.github.com/piyueh/712ec7d4540489aad2dcfb80f9a54993
+        """
         # Obtain the shapes of all trainable parameters in the model
         shapes = tf.shape_n(self.var_list)
         num_tensors = len(shapes)
 
         # Prepare requisite variables for later stitching and partitioning
-        count = 0
+        counter = 0
         idx = [] # stitch indices
         part = [] # partition indices
         for i, shape in enumerate(shapes):
-            n = np.product(shape)
-            idx.append(tf.reshape(tf.range(count, count + n, dtype=tf.int32), shape))
-            part.extend([i] * n)
-            count += n
+            s = np.product(shape)
+            idx.append(tf.reshape(tf.range(counter, counter + s, dtype=tf.int32), shape))
+            part.extend([i] * s)
+            counter += s
         part = tf.constant(part)
 
         @tf.function
-        def update(params_1d):
-            params = tf.dynamic_partition(params_1d, part, num_tensors)
+        def update(one_dim_params):
+            params = tf.dynamic_partition(one_dim_params, part, num_tensors)
             for i, (shape, param) in enumerate(zip(shapes, params)):
                 self.var_list[i].assign(tf.reshape(param, shape))
 
         @tf.function
-        def f(params_1d):
+        def f(one_dim_params):
             with tf.GradientTape() as tape:
-                update(params_1d) # Update model parameters via manual partitioning
+                update(one_dim_params) # Update model parameters via manual partitioning
                 u_pred = self.surrogate_model(tf.concat([self.x, self.t], 1))
                 f_pred = self.residual(self.x, self.t)
-                loss_value = self.loss(u_pred, f_pred) # Calculate the loss
+                loss = self.loss(u_pred, f_pred) # Calculate the loss
 
             # Calculate gradients and convert them to a 1-dimensional tf.Tensor
-            grads = tape.gradient(loss_value, self.var_list)
+            grads = tape.gradient(loss, self.var_list)
             grads = tf.dynamic_stitch(idx, grads)
 
             f.iter.assign_add(1)
             if f.iter % 500 == 0:
-                tf.print("L-BFGS-B iteration:", f.iter, "Loss:", loss_value, "Lambda_1: ", \
+                tf.print("L-BFGS-B iteration:", f.iter, "Loss:", loss, "Lambda_1: ", \
                          self.lambda_1[0], "Lambda_2: ", tf.exp(self.lambda_2[0]))
 
             # Store the loss value so we can retrieve it later
-            tf.py_function(f.hist.append, inp=[loss_value], Tout=[])
+            tf.py_function(f.hist.append, inp=[loss], Tout=[])
 
-            return loss_value, grads
+            return loss, grads
 
         # Store function members for use outside scope
         f.idx = idx
